@@ -15,3 +15,11 @@ The code features the following:
 - Data type conversion
 
 Raw data (link): https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/Customer%20Call%20List.xlsx
+
+## Contributing
+
+If you'd like to contribute to this project (e.g., by suggesting improvements or adding new analysis), please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for details.
